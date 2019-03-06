@@ -16,11 +16,13 @@ class Truck:ClassConstructor{
         this.subType = subType
     }
 
+    override fun getCarPrice():Double{
+        return this.price!! - (this.milesDriven!!.toDouble()*20)
+    }
+
 }
 
 fun main(){
-
-
 
     val truck = Truck("Audi", 2018, 10000.0, 133, "Jordan", "Pickup Truck")
     println(truck.type)

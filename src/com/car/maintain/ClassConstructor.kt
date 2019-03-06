@@ -26,7 +26,7 @@ open class ClassConstructor(){
         this.owner = owner
     }
 
-    fun getCarPrice():Double{
+    open fun getCarPrice():Double{
 
         return this.price!! - (milesDriven!!.toDouble()*10)
 
