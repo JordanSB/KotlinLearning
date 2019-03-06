@@ -38,11 +38,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SimpleAbstruct.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -106,6 +124,8 @@
         <option value="$PROJECT_DIR$/src/com/car/maintain/ClassConstructor.kt" />
         <option value="$PROJECT_DIR$/src/com/car/maintain/Truck.kt" />
         <option value="$PROJECT_DIR$/src/Overriding.kt" />
+        <option value="$PROJECT_DIR$/src/ClassInterface.kt" />
+        <option value="$PROJECT_DIR$/src/SimpleAbstruct.kt" />
       </list>
     </option>
   </component>
@@ -144,7 +164,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551877923146" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551879419175" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.OverridingKt">
+  <component name="RunManager" selected="Kotlin.SimpleAbstructKt">
     <configuration name="OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinUdemy" />
       <option name="VM_PARAMETERS" />
@@ -172,14 +192,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleAbstructKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinUdemy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ScopeKt" />
+      <option name="MAIN_CLASS_NAME" value="SimpleAbstructKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SimpleAbstructKt" />
         <item itemvalue="Kotlin.OverridingKt" />
         <item itemvalue="Kotlin.com.car.maintain.TruckKt" />
         <item itemvalue="Kotlin.com.car.maintain.ClassConstructorKt" />
         <item itemvalue="Kotlin.com.car.maintain.CarKt" />
-        <item itemvalue="Kotlin.ScopeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -264,15 +284,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32981133" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32981133" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32981133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32981133" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,6 +550,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/KotlinUdemy/Kotlin/ClassInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleAbstruct.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
