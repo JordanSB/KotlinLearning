@@ -1,6 +1,6 @@
 package com.car.maintain
 
-class ClassConstructor(){
+open class ClassConstructor(){
 
     var type:String?=null
     var model:Int?=null
