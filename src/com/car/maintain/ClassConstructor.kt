@@ -36,8 +36,6 @@ open class ClassConstructor(){
 
 fun main(){
 
-
-
     val car = ClassConstructor("Audi", 2018, 10000.0, 133, "Jordan")
     println(car.type)
     println(car.model)
